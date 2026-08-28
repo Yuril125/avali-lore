@@ -53,6 +53,15 @@ and being changed rapidly.
 
 #pagebreak()
 
+= Style Guide
+
+- "Avali" is a proper noun and should be capitalized.
+- When referring to Avali as a collective
+  (e.g., as a species or as a people),
+  use simply "Avali" and not "the Avali."
+
+#pagebreak()
+
 = Avali Social Organization
 The pack is the basic unit of social organization in Avali society.
 A pack typically consists of no fewer than four and no more than eight members,
