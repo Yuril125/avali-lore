@@ -62,6 +62,72 @@ and being changed rapidly.
 
 #pagebreak()
 
+= The Avali Homeworld
+
+Excerpts from Todd's Avali lorebook and my thoughts and interpretations:
+#table(
+    columns: (auto, 1fr, 1fr),
+    align: (left, left, left),
+    table.header(
+        [*Page \#*], [*Excerpt*], [*Interpretation*]
+    ),
+    [19],
+    [Located in an F8 Star system, also
+    known as a "main sequence" star system and
+    named Uresk, the Avali home world of Avalon is
+    a large moon attached to a gas giant.],
+    [
+        - The name of the star of the home star system of the Avali is named Uresk.
+        - Uresk is an F8 main sequence star.
+    ],
+    [19],
+    [Avalon is roughly 75% the size of Earth,
+    with a radius of 4784 km (2972.6 miles),
+    compared to Earth’s 6378 km (3963 miles).],
+    [
+        Avalon has a radius of 4784 km, and therefore
+        - a diameter of 9568 km,
+        - a surface area of 287.6 million km#super[2], and
+        - a volume of 459 billion km#super[3].
+    ],
+    [19],
+    [Despite its size,
+    the moon has 25% of the gravity of Earth,
+    putting its gravitational pull range near 2.6 meters per second squared (m/s#super[2])...],
+    [The surface gravity on Avalon is 2.6 m/s#super[2].],
+    [19],
+    [Its weaker
+    gravity has played a considerable effect on the
+    development of lifeforms on Avalon and gives it
+    a very tall atmosphere, towering at nearly 210
+    km, or 130.48 miles.],
+    [There's no objective physical definition of
+    where an atmosphere ends and where space begins.
+    Earth's Kármán line at an altitude of 100 km above mean sea level
+    was named after Theodore von Kármán
+    and is generally accepted by convention to be the "edge of space."
+    Theodore von Kármán calculated a theoretical limit for airplane flight
+    at 83.8 km above Earth's surface,
+    and indeed, the highest flights that have been performed
+    by human-built heavier-than-air aircraft
+    have been at around 100 km.
+    Therefore, I will interpret 210 km as
+    what Avali generally consider to be the edge of space,
+    and the highest altitude at which flight by heavier-than-air aircraft is feasible.
+    210 km may also happen to be a round number in the Avalian numeral and unit system.],
+    [19],
+    [The moon sites at about a 26° tilt
+    on its axis, giving it seasonal effects like on Earth.],
+    [
+        - Avalon has seasons caused by axial tilt.
+        - However, it is not clear whether the 26° tilt is to
+          the orbital plane of of Avalon around Elysium
+          or to the orbital plane of Elysium around Uresk.
+    ]
+)
+
+#pagebreak()
+
 = Avali Social Organization
 The pack is the basic unit of social organization in Avali society.
 A pack typically consists of no fewer than four and no more than eight members,
