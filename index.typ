@@ -120,9 +120,12 @@ Excerpts from Todd's Avali lorebook and my thoughts and interpretations:
     on its axis, giving it seasonal effects like on Earth.],
     [
         - Avalon has seasons caused by axial tilt.
-        - However, it is not clear whether the 26° tilt is to
+        - It is not entirely clear whether the 26° tilt is to
           the orbital plane of of Avalon around Elysium
           or to the orbital plane of Elysium around Uresk.
+          However, given the context of seasons,
+          I will assume it is a 26° tilt to
+          the orbital plane of Elysium around Uresk.
     ]
 )
 
