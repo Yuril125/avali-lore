@@ -126,7 +126,37 @@ Excerpts from Todd's Avali lorebook and my thoughts and interpretations:
           However, given the context of seasons,
           I will assume it is a 26° tilt to
           the orbital plane of Elysium around Uresk.
-    ]
+    ],
+    [19],
+    [Additionally, Avalon has no dedicated
+    micro-moon or asteroids.],
+    [No natural celestial body orbits Avalon.],
+    [19],
+    [Avalon is not tidally locked to Elysium
+    and takes about 16 hours to complete a full
+    revolution, making the days shorter than the
+    ones on Earth.],
+    [
+        - I think Todd confused "rotation" with "revolution."
+          I think Todd meant to say "rotation" and not "revolution" here.
+        - A day on Avalon is approximately 16 hours.
+          However, it's unclear whether this is a sidereal day, a solar day, or something else.
+    ],
+    [19],
+    [A complete rotation around
+    the host planet is 40 days.],
+    [
+        - Again, I think Todd confused "rotation" with revolution here;
+          in this case, I think Todd meant to say "revolution" instead of "rotation".
+        - It's not clear whether this 40 day period is referring to a sidereal month, a synodic month, or something else.
+        - It's not clear whether a "day" in this context refers to an Earth day of 24 hours or an Avalon day of \~16 hours.
+    ],
+    [19],
+    [Finally, for a
+    complete orbit around the star Uresk, Avalon
+    and its host planet take 440 days to complete a
+    full year.],
+    [It's not exactly clear whether this 440 day period is referring to a sidereal year, tropical year, or something else.]
 )
 
 #pagebreak()
