@@ -213,7 +213,7 @@ Excerpts from Todd's Avali lorebook and interpretations:
     ),
     [*Plosive/Affricate*],
         [#ipa.sym.p #ipa.sym.b],
-        [#ipa.sym.t\~#ipa.diac.tied("ts") #ipa.sym.d\~#ipa.diac.tied(ipa.sym.d + ipa.sym.ezh)],
+        [#ipa.sym.t\~#ipa.diac.tied("ts") #ipa.sym.d\~#ipa.diac.tied(ipa.sym.d + ipa.sym.z)],
         [#ipa.sym.c, #ipa.sym.j.dotless.barred],
         [#ipa.sym.q #ipa.diac.labialized(ipa.sym.q) #ipa.sym.G #ipa.diac.labialized(ipa.sym.G)],
     [*Trill*],
