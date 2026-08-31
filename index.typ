@@ -60,6 +60,9 @@ and being changed rapidly.
   (e.g., as a species or as a people),
   use simply "Avali" and not "the Avali."
 
+== Abbreviations
+- TALG = Todd's Avali Lore Guide
+
 #pagebreak()
 
 = The Avali Homeworld
