@@ -146,20 +146,70 @@ Excerpts from Todd's Avali lorebook and my thoughts and interpretations:
           However, it's unclear whether this is a sidereal day, a solar day, or something else.
     ],
     [19],
+    [Furthermore, due to being
+    hosted by a gas giant, the moon falls under
+    complete darkness every 37 days due to the
+    planet blocking out the star completely. This
+    period lasts for three days before it returns to
+    the starlight again.],
+    [The synodic month is 40 days long.],
+    [19],
     [A complete rotation around
     the host planet is 40 days.],
     [
         - Again, I think Todd confused "rotation" with revolution here;
           in this case, I think Todd meant to say "revolution" instead of "rotation".
-        - It's not clear whether this 40 day period is referring to a sidereal month, a synodic month, or something else.
-        - It's not clear whether a "day" in this context refers to an Earth day of 24 hours or an Avalon day of \~16 hours.
+        - I assume a "day" here refers to a unit of time 24 hours in length.
     ],
     [19],
     [Finally, for a
     complete orbit around the star Uresk, Avalon
     and its host planet take 440 days to complete a
     full year.],
-    [It's not exactly clear whether this 440 day period is referring to a sidereal year, tropical year, or something else.]
+    [The orbital period of Elysium around Uresk is
+        $440 times 24 = 10560$ hours.],
+    [26],
+    [One of the oldest names in the Avali
+    language, Uresk (Uhr’esk), is the name of the F8
+    main sequence star at the system’s center.],
+    ["Uresk" (or "Uhr'esk") is an endonym in the Avali language for the star.],
+    [26],
+    [Uresk is much more potent than Sol, burning at
+    a staggering 6100 Kelvin (5827°C or 10520°F)
+    and shining at 1.78 times brighter.],
+    [
+        - The surface temperature of Uresk is 6100 K.
+        - The luminosity of Uresk is $1.78 L_sun$.
+    ],
+    [26],
+    [The star also
+    emits much more ultraviolet (UV) light than Sol.],
+    [This makes sense given the higher temperature.],
+    [26],
+    [While the exact age is unknown, most Avalon
+    scientists put Uresk around 650-700 million
+    years old.],
+    [
+        - TODO: Typical age of F8 star?
+    ],
+    [28],
+    [The Planet’s
+    size is nearly comparable to Uranus, only
+    surpassing it by 6%.],
+    [The radius of Elysium is 1.06 times the radius of Uranus.],
+    [28],
+    [Elysium is a gas giant containing a unique set of
+    2 orbital rings - a thick inner purple ring and
+    thinner, faint blue outer ring - and eight moons,
+    one of which is Avalon (Awawkom [Aw'awkom]).],
+    ["Awawkom" (or "Aw'awkom") is the Avali endonym for Avalon.],
+    [28],
+    [Given its weird properties, it
+    gives the illusion of 2 gravitational fields being
+    emitted from Elysium. However, this is not the
+    case, as the moons of Elysium continue to orbit
+    on just one gravitational plane.],
+    [What is a "gravitational plane"?]
 )
 
 #pagebreak()
