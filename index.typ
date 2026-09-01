@@ -191,18 +191,19 @@ Excerpts from Todd's Avali lorebook and interpretations:
   --- purrs = voiced trills,
   clicks = click consonants,
   hisses = syllabic fricatives,
-  occaisional popping = implosives?,
+  occaisional popping = ejectives,
   hums = ??? (Avali don't have nasal cavities??)
 - "Avali do not have any sounds that rely on a nasal cavity since they do not have one"
   --- No nasal consonants
 - "Certain sounds cannot be formed lips, as they do not have the very fine muscles needed to manipulate them in such a way"
-  --- No rounded vowels
+  --- No rounded vowels (or any lip rounding)
 - "Avali cannot make sounds associated with f's, j's, n's, and v's"
-  --- No labialdental consonants
+  --- No labialdental consonants (can't move their lips that way)
+  and no postalveolar or retroflex consonants (can't curl their tongue that far back)
 - "Rolling r's are frequent, and depending on the pitch or previous sound attachment, they would mean different things"
   --- Syllabic alveolar trills and tones
 - "Some throat-growling noises also exist"
-  --- Uvular trill
+  --- Creaky voice?
 
 === Phonemes
 
