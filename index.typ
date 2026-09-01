@@ -1,6 +1,7 @@
 #import "@preview/tyipa:0.1.1" as ipa
 #set page("us-letter")
 #set page(margin: 1.5in)
+#show link: underline
 = Project Kasiva
 
 Avali are a species of sapient extraterrestrial bird-raptor things.
@@ -211,6 +212,47 @@ Excerpts from Todd's Avali lorebook and my thoughts and interpretations:
     on just one gravitational plane.],
     [What is a "gravitational plane"?]
 )
+
+== Physical Characteristics of the Uresk Star System
+
+TALG provides the following details about Uresk:
+- Uresk is an F8V star.
+- The surface temperature of Uresk is 6100 K.
+- Uresk is 650--700 million years old.
+
+Referring to Eric Mamajek's
+#link("https://www.pas.rochester.edu/~emamajek/EEM_dwarf_UBVIJHK_colors_Teff.txt"
+)[A Modern Mean Dwarf Stellar Color and Effective Temperature Sequence],
+the parameters of Uresk
+would be somewhere between the F8V row and F9V row.
+Thus, we can estimate that
+- The radius of Uresk is between $1.167 R_sun$ and $1.221 R_sun$.
+- The mass of Uresk is between $1.13 M_sun$ and $1.18 M_sun$.
+
+=== Orbital Radius of Elysium around Uresk
+Kepler's Third Law states
+$ T^2 = ((4 pi^2) / (G M)) r^3, $
+where $T$ is the orbital period,
+$G$ is the gravitational constant,
+$M$ is the mass of the central object,
+and $r$ is the orbital radius.
+Rearranging, we obtain
+$ r =  root(3, (T^2 G M) / (4 pi^2)). $
+Thus, knowing that the orbital period of Elysium around Uresk
+is approximately 10560 hours,
+we obtain that the orbital radius of Elysium around Uresk is
+*1.18 to 1.20 AU*.
+
+=== Equilibrium Temperature of Elysium
+The equation for planetary equilibrium temperature is
+$ T_"eq" = ( (L (1 - A_B)) / (16 sigma pi d^2) )^(1/4), $
+where $L$ is the luminosity of the star,
+$A_B$ is the planet's albedo,
+$sigma$ is the Stefan–Boltzmann constant,
+and $d$ is the distance between the planet and the star.
+
+If we approximate $A_B = 0$,
+then the planetary equilibrium temperature of Elysium is approximately *255 K*.
 
 #pagebreak()
 
