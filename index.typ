@@ -207,44 +207,67 @@ Excerpts from Todd's Avali lorebook and interpretations:
 
 === Phonemes
 
-==== _Pulmonic Consonants_
+==== _Consonants_
 
 #table(
-    columns: (auto, 1fr, auto, 1fr, 1fr),
-    align: (left, center, center, center, center),
+    columns: (auto, auto, 2fr, auto, auto, 2fr, 2fr),
+    align: (left + horizon, left + horizon, center, center, center, center, center),
     table.header(
-        [], [*Bilabial*], [*Dental/Alveolar*], [*Palatal*], [*Uvular*]
+        table.cell(colspan: 2)[], [*Bilabial*], [*Dental*], [*Alveolar*], [*Palatal*], [*Laryngeal*]
     ),
-    [*Plosive/Affricate*],
-        [#ipa.sym.p #ipa.sym.b],
-        [#ipa.sym.t\~#ipa.diac.tied("ts") #ipa.sym.d\~#ipa.diac.tied(ipa.sym.d + ipa.sym.z)],
-        [#ipa.sym.c, #ipa.sym.j.dotless.barred],
-        [#ipa.sym.q #ipa.diac.labialized(ipa.sym.q) #ipa.sym.G #ipa.diac.labialized(ipa.sym.G)],
-    [*Trill*],
-        [#ipa.diac.voiceless(ipa.sym.B) #ipa.diac.voiced(ipa.sym.B)],
-        [#ipa.diac.voiceless(ipa.sym.r) #ipa.diac.voiced(ipa.sym.r) #ipa.diac.labialized(ipa.diac.voiced(ipa.sym.r))],
+    table.cell(colspan: 2)[*Plosive*],
+        [#ipa.sym.p
+            #ipa.diac.ejective(ipa.sym.p)],
+        table.cell(colspan: 2)[#ipa.sym.t\*
+            #ipa.diac.ejective(ipa.sym.t)\*
+            #ipa.sym.t#ipa.sym.beta.raised\*],
+        [#ipa.sym.c
+            #ipa.diac.ejective(ipa.sym.c)
+            #ipa.sym.c#ipa.sym.beta.raised],
+        [#ipa.sym.glottal-stop],
+    table.cell(colspan: 2)[*Fricative*],
+        [#ipa.sym.phi],
+        table.cell(colspan: 2)[#ipa.sym.s
+            #ipa.sym.s#ipa.sym.beta.raised],
+        [#ipa.sym.c.cedilla
+            #ipa.sym.c.cedilla#ipa.sym.beta.raised],
+        [#ipa.sym.h],
+    table.cell(colspan: 2)[*Lateral Fricative*],
         [],
-        [#ipa.diac.voiceless(ipa.sym.R) #ipa.diac.voiced(ipa.sym.R) #ipa.diac.labialized(ipa.diac.voiced(ipa.sym.R))],
-    [*Tap/Flap*],
-        [],
-        [#ipa.sym.r.fish-hook],
+        table.cell(colspan: 2)[#ipa.sym.l.belted
+            #ipa.sym.l.belted#ipa.sym.beta.raised],
         [],
         [],
-    [*Fricative*],
-        [#ipa.sym.phi #ipa.sym.beta],
-        [#ipa.sym.s\~#ipa.sym.esh #ipa.sym.z\~#ipa.sym.ezh],
-        [#ipa.sym.c.cedilla #ipa.sym.j.tail.curly],
-        [#ipa.sym.chi #ipa.diac.labialized(ipa.sym.chi) #ipa.sym.R.inverted #ipa.diac.labialized(ipa.sym.R.inverted)],
-    [*Lateral Fricative*],
+    table.cell(rowspan: 2)[*Trill*],
+        [*Voiceless*],
+        [#ipa.diac.voiceless-above(ipa.sym.B)],
+        [#ipa.diac.voiceless-above(ipa.diac.dental(ipa.sym.r))
+            #ipa.diac.voiceless-above(ipa.diac.dental(ipa.sym.r))#ipa.sym.beta.raised],
+        [#ipa.diac.voiceless-above(ipa.diac.retracted(ipa.sym.r))
+            #ipa.diac.voiceless-above(ipa.diac.retracted(ipa.sym.r))#ipa.sym.beta.raised],
         [],
-        [#ipa.sym.l.belted #ipa.sym.lezh],
         [],
+        [*Voiced*],
+        [#ipa.sym.B],
+        [#ipa.diac.dental(ipa.sym.r)
+            #ipa.diac.dental(ipa.sym.r)#ipa.sym.beta.raised],
+        [#ipa.diac.retracted(ipa.sym.r)
+            #ipa.diac.retracted(ipa.sym.r)#ipa.sym.beta.raised],
+        [],
+        [],
+    table.cell(colspan: 2)[*Click*],
+        [#ipa.sym.bulls-eye],
+        [#ipa.sym.pipe],
+        [#ipa.sym.exclamation-mark],
+        [#ipa.sym.pipe.double-barred],
+        [],
+    table.cell(colspan: 2)[*Lateral Click*],
+        [],
+        table.cell(colspan: 2)[],
+        [#ipa.sym.pipe.double],
         []
 )
-
-==== _Clicks_
-
-Fill out this section once I actually understand how click consonants work
+\*Sometimes realized as an affricate due to Avali's forked tongue.
 
 ==== _Vowels_
 
